@@ -1,6 +1,7 @@
-## Howdy, I'm Nitin 👋
+## Howdy, I'm Nitin 👋💻
 
-_I am Cloud Engineer_
+_I'm a software engineer_
+
 <!--
 **nitinda/nitinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
