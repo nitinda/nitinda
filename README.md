@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-gray-rgb.svg" alt="gitlab" width="60" height="60"/>
+  <img src="https://about.gitlab.com/images/new_logo/A.jpg" alt="gitlab" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
