@@ -27,9 +27,9 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.datocms-assets.com/2885/1588883135-vagrantverticallogofullcolorrgb.svg" alt="vagrant" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="jenkins" width="30" height="30"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-gray-rgb.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://about.gitlab.com/images/press/logo/svg/gitlab-logo-gray-rgb.svg" alt="gitlab" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
