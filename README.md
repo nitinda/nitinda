@@ -21,6 +21,12 @@ Here are some ideas to get you started:
 ---
 
 <p align="left">
+  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="terraform" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.datocms-assets.com/2885/1588883226-packerverticallogofullcolorrgb.svg" alt="packer" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.datocms-assets.com/2885/1588883135-vagrantverticallogofullcolorrgb.svg" alt="vagrant" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -32,10 +38,4 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="terraform" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.datocms-assets.com/2885/1588883226-packerverticallogofullcolorrgb.svg" alt="terraform" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.datocms-assets.com/2885/1588883135-vagrantverticallogofullcolorrgb.svg" alt="terraform" width="40" height="40"/>
 </p>
