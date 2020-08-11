@@ -44,6 +44,5 @@ Here are some ideas to get you started:
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.python.org/static/community_logos/python-logo-inkscape.svg" alt="python" width="20" height="20"/>
+  
 </p>
