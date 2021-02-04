@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Howdy 👋💻, I'm Nitin</h1>
 <h3 align="center">I'm a software engineer</h3>
 
-- 🌱 I’m currently learning **<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>, <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>**
+- 🌱 I’m currently learning **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>**
 
 ---
 
