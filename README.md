@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 <p align="left">
-  <img src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png" alt="terraform" width="40" height="40"/>
+  <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.datocms-assets.com/2885/1588883226-packerverticallogofullcolorrgb.svg" alt="packer" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
