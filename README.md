@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Blinker&pause=1000&color=F70731&width=435&lines=Nitin+Das)](https://git.io/typing-svg)
 
+---
 
-- 🌱 I’m currently learning **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>**
+- ![Dev](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
+
+- 🌱 I’m currently learning [![I’m currently learning](https://skillicons.dev/icons?i=go&perline=10)](https://skillicons.dev)
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,react,nginx,linux,jenkins,docker,ansible,bash,postgres,cloudflare,github,gitlab,grafana,redhat,&perline=10)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=aws,terraform,react,nginx,linux,jenkins,docker,ansible,bash,postgres,cloudflare,github,gitlab,grafana,redhat,&perline=10)](https://skillicons.dev)
