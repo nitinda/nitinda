@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Blinker&pause=1000&color=F70731&width=435&lines=Nitin+Das)](https://git.io/typing-svg)
 
 ---
-
-- ![Dev](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
+![Dev](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif)
 
 - 🌱 I’m currently learning [![I’m currently learning](https://skillicons.dev/icons?i=go&perline=10)](https://skillicons.dev)
 
