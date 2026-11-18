@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Howdy 👋💻, I'm Nitin</h1>
-<h3 align="center">I'm a software engineer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Blinker&pause=1000&color=F70731&width=435&lines=Nitin+Das)](https://git.io/typing-svg)
+
 
 - 🌱 I’m currently learning **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>**
 
