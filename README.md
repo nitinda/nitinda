@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ---
 
-- [![My Skills](https://skillicons.dev/icons?i=aws,terraform,react,nginx,linux,jenkins,docker,ansible,bash,postgres,cloudflare,github,gitlab,grafana,redhat,&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,react,nginx,linux,jenkins,docker,ansible,bash,postgres,cloudflare,github,gitlab,grafana,redhat,&perline=10)](https://skillicons.dev)
