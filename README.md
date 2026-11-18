@@ -20,35 +20,4 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="left">
-  <img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="terraform" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.datocms-assets.com/2885/1588883226-packerverticallogofullcolorrgb.svg" alt="packer" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.datocms-assets.com/2885/1588883135-vagrantverticallogofullcolorrgb.svg" alt="vagrant" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" alt="bitbucket" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-logo.svg" alt="aws" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,react,nginx,linux,jenkins,docker,ansible,bash,postgres,cloudflare,github,gitlab,grafana,redhat,&perline=10)](https://skillicons.dev)
